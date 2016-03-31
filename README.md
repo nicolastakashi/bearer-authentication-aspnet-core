@@ -16,11 +16,10 @@ Esse projeto foi criado para demonstração de como realizar uma a implementaç�
 Precisamos ter todas as tecnologias do pré requisitos instaladas e configuradas
 
 ```sh
-$ npm i -g gulp
+$ git clone https://github.com/nicolastakashi/bearer-authentication-aspnet-core.git
 ```
 
 ```sh
-$ git clone https://github.com/nicolastakashi/bearer-authentication-aspnet-core.git
 $ cd bearer-authentication-aspnet-core
 $ dnu restore
 $ dnu build
