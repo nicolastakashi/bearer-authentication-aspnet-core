@@ -31,7 +31,7 @@ $ dnx web
 
 
    [Yeoman]: <http://yeoman.io/>
-   [ASP.NET Core]: <http://angularjs.org>
+   [ASP.NET Core]: <http://docs.asp.net/en/latest/getting-started/index.html>
    [Generators ASP.NET]: <https://www.npmjs.com/package/generator-aspnet>
    [Visual Studio Code]: <https://code.visualstudio.com/>
    [ntakashi.net]: <http://ntakashi.net/?p=7051&preview=true>
